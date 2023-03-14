@@ -12,15 +12,15 @@
   
     .solid-logo {
       position: absolute;
-      top: 1;
+      top: 0;
       right: auto;
       bottom: auto;
       left: 0;
       margin: auto;
       width: 100%;
       opacity: 0;
-      transform: rotateZ(10deg) !important;
-      z-index: -5;
+      transform: rotateZ(0deg) !important;
+      z-index: -10;
     }
   }
   
